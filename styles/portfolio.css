@@ -100,3 +100,17 @@ nav a{
     text-align: center;
     font-size: 18px;
 }
+/* main section style */
+
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.class-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.class-info{
+    text-align: center;
+}
